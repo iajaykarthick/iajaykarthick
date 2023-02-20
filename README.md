@@ -4,6 +4,14 @@
 
 </p>
 
+<h3 align="center">
+  Hi there, I am <a href="https://ajaykarthick.com/" target="_blank" rel="noreferrer">Ajay</a> 👋 
+</h3>
+ 
+<h2 align="center">
+  Programmer 👨‍💻 Data Science Grad Student 📚 Graduating in 2024 🎓
+</h2>
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=iajaykarthick&show_icons=true&theme=bear" width = 400>
