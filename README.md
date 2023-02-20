@@ -14,7 +14,7 @@
 
 ~ 6 years of experience in software development and data engineering. 
 
-<a href="https://leetcode.com/iajaykarthick/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badges"/></a>
+<a href="https://leetcode.com/iajaykarthick/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badges"/></a>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=iajaykarthick&show_icons=true&theme=bear" width = 400>
