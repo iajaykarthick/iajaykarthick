@@ -19,10 +19,8 @@
 <a href="https://leetcode.com/iajaykarthick/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badges"/></a>
 <a href="https://www.hackerrank.com/iajaykarthick" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badges"/></a>
 
-
-
-
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=iajaykarthick&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=iajaykarthick&theme=dark&hide_border=true" width = 400>
+  <img src="https://leetcard.jacoblin.cool/iajaykarthick" width=400 height=200>
+  <img src = "https://github-readme-stats.vercel.app/api?username=iajaykarthick&show_icons=true&theme=bear" width = 400 height=200>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=iajaykarthick&theme=dark&hide_border=true" width = 400 height=200>
  </p>
