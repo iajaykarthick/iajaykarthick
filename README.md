@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  Hi there, I am <a href="https://ajaykarthick.com/" target="_blank" rel="noreferrer">Ajay</a> 👋 
+  Hi there, I am <a href="https://iajaykarthick.com/" target="_blank" rel="noreferrer">Ajay</a> 👋 
 </h3>
  
 <h2 align="center">
