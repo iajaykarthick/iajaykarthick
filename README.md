@@ -1,4 +1,4 @@
-<p align=”center”>
+<p align="center">
 
 <!-- <img src="https://user-images.githubusercontent.com/24907339/220115219-10984759-cee9-427c-b700-9fd9cb91662c.png" alt="banner"> -->
 # Journey Through the Algorithms: From Coding to Data Science 🛤️
