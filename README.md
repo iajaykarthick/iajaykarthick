@@ -11,7 +11,7 @@ AI Solutions Architect building and owning production-grade AI systems under rea
 ### Current focus
 - Accessibility and document intelligence as a proving ground for rigorous, real-world AI systems.
 - Designing AI pipelines that hold up under accuracy, latency, and compliance constraints.
-- Building human-in-the-loop tooling that complements AI instead of masking its failure modes.
+- Building automation-first AI systems with human-in-the-loop tooling that makes AI limitations visible and correctable in production.
 
 ### Background
 - AI Solutions Architect at UNAR Labs
