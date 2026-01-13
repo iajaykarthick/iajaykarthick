@@ -22,7 +22,6 @@ AI Solutions Architect building and owning production-grade AI systems under rea
 - Applied AI systems
 - Reliability and correctness in AI
 - Domain-agnostic system design
-- AI for real users, not demos
 
 ---
 
